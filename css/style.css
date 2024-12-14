@@ -6517,7 +6517,7 @@ button.bg-dark:focus {
 }
 
 .rounded {
-  border-radius: 0.25rem !important;
+  border-radius: 20px !important;
 }
 
 .rounded-top {
@@ -9975,4 +9975,9 @@ h6,
   margin: 0;
   padding: 0;
   list-style-type: none;
+}
+
+
+* {
+
 }
